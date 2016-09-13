@@ -1,0 +1,9 @@
+I made this for a friend who started hosting in home parties for 'Pure Romance' selling sex toys and adult entertainment.
+
+First page is for listing products and prices.
+
+Secod page is the 'Customer List' from which the invoices will self populate.
+
+Third page is the 'Party Invoice' or master invoice, was used by the sales person to place the actual order.
+
+Rest of the pages are the individual invoices for the attendees of the party.

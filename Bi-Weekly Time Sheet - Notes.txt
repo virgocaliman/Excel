@@ -1,0 +1,5 @@
+A tool I made to calculate, differenciate, and total hours.
+
+My wife started working for a company that could not seem to figure out their own payroll either because the weekly time sheets went through too many hands or because at least one set of those hands lacked basic math skills.
+
+Ended up adding the section at the bottom much later to differenciate the total hours worked at different sites/posts.

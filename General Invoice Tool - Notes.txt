@@ -1,0 +1,13 @@
+Invoice tool I made for a local home security company.
+
+The 'Leads' page was for filtered data extracted from the county property appraiser's office.
+
+Made a set of Word docs that would draw from the 'Leads' page to print out mass mailers and envelopes.
+
+A list of products and services were setup on the 'Products' page.
+
+When a system is sold their info was either copied from the 'Leads' page or manually put in on the 'Clients' page.  There was also a set of followup letters a envelopes that drew from the 'Clients' page.
+
+To generate an invoice you just select a client name from the drop down, the rest of their info will autopopulate.  Then go through the line items and select from the drop downs which are populated from the 'Products' page then specify how many of each and the prices will autopopulate.  If an item is part of a package deal or being comped, click the box on the left and it won't be totalled.
+
+There is a 2nd page that autopopulates from the first page for the salesman to keep a record.

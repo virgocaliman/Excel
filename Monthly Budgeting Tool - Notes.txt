@@ -1,0 +1,1 @@
+As I read a book on budgeting and personal finance, I built this tool to help automate and visualize the breakdown.

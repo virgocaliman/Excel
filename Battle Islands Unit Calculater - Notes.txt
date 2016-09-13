@@ -1,0 +1,5 @@
+I made this tool for personal use to tell me how much of a given resource was needed to build my offense.
+
+Basically, how much did I need to take from another player in order to break even or come out ahead.
+
+As I started to play other games I duplicated and modified it to accomodate the needs of that game.
